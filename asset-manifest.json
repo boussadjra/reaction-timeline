@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reaction-timeline/static/css/main.bbb40823.chunk.css",
+    "main.js": "/reaction-timeline/static/js/main.60365514.chunk.js",
+    "main.js.map": "/reaction-timeline/static/js/main.60365514.chunk.js.map",
+    "runtime-main.js": "/reaction-timeline/static/js/runtime-main.bf0aed2d.js",
+    "runtime-main.js.map": "/reaction-timeline/static/js/runtime-main.bf0aed2d.js.map",
+    "static/js/2.1a7f2a50.chunk.js": "/reaction-timeline/static/js/2.1a7f2a50.chunk.js",
+    "static/js/2.1a7f2a50.chunk.js.map": "/reaction-timeline/static/js/2.1a7f2a50.chunk.js.map",
+    "index.html": "/reaction-timeline/index.html",
+    "precache-manifest.82c30b747f2354705a03ba969a184077.js": "/reaction-timeline/precache-manifest.82c30b747f2354705a03ba969a184077.js",
+    "service-worker.js": "/reaction-timeline/service-worker.js",
+    "static/css/main.bbb40823.chunk.css.map": "/reaction-timeline/static/css/main.bbb40823.chunk.css.map",
+    "static/js/2.1a7f2a50.chunk.js.LICENSE": "/reaction-timeline/static/js/2.1a7f2a50.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf0aed2d.js",
+    "static/js/2.1a7f2a50.chunk.js",
+    "static/css/main.bbb40823.chunk.css",
+    "static/js/main.60365514.chunk.js"
+  ]
+}
