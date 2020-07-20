@@ -1,7 +1,7 @@
 {
     "author": "BRAHIM BOUSSADJRA",
     "name": "reaction-timeline",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "private": false,
     "description": "It's a React ⚛️ based component that shows item set in chronological way.",
     "homepage": "http://boussadjra.github.io/reaction-timeline",
